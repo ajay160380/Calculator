@@ -9,7 +9,9 @@ This is a simple calculator application developed using **Python** and later enh
 - Subtraction
 - Multiplication
 - Division
+  
 ---
+
 ## 🛠️ Technologies Used
 - Python
 - HTML  
